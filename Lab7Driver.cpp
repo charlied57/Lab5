@@ -1,5 +1,7 @@
 //
 // Created by Charlie Davis on 10/17/18.
+// COSC 2030
+// 10/19/18
 //
 # include "Lab5Header.h"
 
